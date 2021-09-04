@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-09-03T18:51:59.5805776Z",
-  "playedCount": 2,
+  "lastPlayed": "2021-09-04T08:46:11.5787418Z",
+  "playedCount": 6,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -225,6 +225,91 @@
       "installedTargets": null
     },
     {
+      "addonID": 488573,
+      "gameInstanceID": "ab2d72cc-12d8-412a-af72-2b07b8b62a05",
+      "installedFile": {
+        "id": 3432455,
+        "displayName": "abyg-1.2-forge.jar",
+        "fileName": "abyg-1.2-forge.jar",
+        "fileDate": "2021-08-20T15:12:28.403Z",
+        "fileLength": 19498,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3432/455/abyg-1.2-forge.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 247560,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "data",
+            "fingerprint": 3457313797,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "Entry.class",
+            "fingerprint": 1457384320,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "fabric.mod.json",
+            "fingerprint": 2914443624,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3373483650,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 782561093,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3865429336,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "abyg-1.2-forge.jar"
+      },
+      "dateInstalled": "2021-09-04T08:25:14.3033553Z",
+      "dateUpdated": "2021-09-04T08:25:14.3093427Z",
+      "dateLastUpdateAttempted": "2021-09-04T08:25:14.3093427Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 470193,
       "gameInstanceID": "ab2d72cc-12d8-412a-af72-2b07b8b62a05",
       "installedFile": {
@@ -304,6 +389,353 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 238222,
+      "gameInstanceID": "ab2d72cc-12d8-412a-af72-2b07b8b62a05",
+      "installedFile": {
+        "id": 3438494,
+        "displayName": "jei-1.16.5-7.7.1.121.jar",
+        "fileName": "jei-1.16.5-7.7.1.121.jar",
+        "fileDate": "2021-08-25T06:28:30.36Z",
+        "fileLength": 814217,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3438/494/jei-1.16.5-7.7.1.121.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2317160737,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mezz",
+            "fingerprint": 3778864182,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1645019714,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2041060550,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3158079338,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "jei-1.16.5-7.7.1.121.jar"
+      },
+      "dateInstalled": "2021-09-04T08:08:14.136438Z",
+      "dateUpdated": "2021-09-04T08:08:14.1504025Z",
+      "dateLastUpdateAttempted": "2021-09-04T08:08:14.1504025Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 324717,
+      "gameInstanceID": "ab2d72cc-12d8-412a-af72-2b07b8b62a05",
+      "installedFile": {
+        "id": 3439522,
+        "displayName": "Jade-1.16.4-2.7.4.jar",
+        "fileName": "Jade-1.16.4-2.7.4.jar",
+        "fileDate": "2021-08-26T06:10:01.567Z",
+        "fileLength": 253717,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3439/522/Jade-1.16.4-2.7.4.jar",
+        "isAlternate": false,
+        "alternateFileId": 3439523,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2743610899,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcp",
+            "fingerprint": 3481955000,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "snownee",
+            "fingerprint": 3781843748,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 55236185,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 68615703,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 43760501,
+        "gameVersion": [
+          "1.16.5",
+          "Forge",
+          "1.16.4"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Jade-1.16.4-2.7.4.jar"
+      },
+      "dateInstalled": "2021-09-04T08:08:20.3245076Z",
+      "dateUpdated": "2021-09-04T08:08:20.3324345Z",
+      "dateLastUpdateAttempted": "2021-09-04T08:08:20.3324345Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 247560,
+      "gameInstanceID": "ab2d72cc-12d8-412a-af72-2b07b8b62a05",
+      "installedFile": {
+        "id": 3444476,
+        "displayName": "Biomes You Go 1.3.4 MCV: 1.16.5",
+        "fileName": "byg-1.3.4.jar",
+        "fileDate": "2021-08-31T02:54:58.89Z",
+        "fileLength": 10313922,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3444/476/byg-1.3.4.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1985442624,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "corgiaoc",
+            "fingerprint": 2592629088,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2728574134,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "byg.mixins.json",
+            "fingerprint": 3019215720,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 4025516341,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logo_byg1.png",
+            "fingerprint": 55594528,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logo_text.png",
+            "fingerprint": 220232087,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mini_logo.png",
+            "fingerprint": 217914077,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2337918188,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "byg.refmap.json",
+            "fingerprint": 146847686,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 803105978,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "byg-1.3.4.jar"
+      },
+      "dateInstalled": "2021-09-04T08:09:05.3194867Z",
+      "dateUpdated": "2021-09-04T08:09:05.3314549Z",
+      "dateLastUpdateAttempted": "2021-09-04T08:09:05.3314549Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 472872,
+      "gameInstanceID": "ab2d72cc-12d8-412a-af72-2b07b8b62a05",
+      "installedFile": {
+        "id": 3302984,
+        "displayName": "[FORGE] Simply Improved Terrain 1.16 0.3.2",
+        "fileName": "SimplyImprovedTerrain-0.3.2-Forge.jar",
+        "fileDate": "2021-05-08T19:24:56.543Z",
+        "fileLength": 1013357,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3302/984/SimplyImprovedTerrain-0.3.2-Forge.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2558155222,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "jpg",
+            "fingerprint": 2705837543,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3554058841,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "simplyimprovedterrain.mixins.json",
+            "fingerprint": 2197752559,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "simplyimprovedterrain.png",
+            "fingerprint": 2534512996,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "simplyimprovedterrain.refmap.json",
+            "fingerprint": 1144939737,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2021514616,
+        "gameVersion": [
+          "1.16.3",
+          "1.16.1",
+          "1.16",
+          "1.16.5",
+          "1.16.4",
+          "1.16.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2020-06-23T13:41:08.75Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "SimplyImprovedTerrain-0.3.2-Forge.jar"
+      },
+      "dateInstalled": "2021-09-04T08:08:29.0963193Z",
+      "dateUpdated": "2021-09-04T08:08:29.1043306Z",
+      "dateLastUpdateAttempted": "2021-09-04T08:08:29.1043306Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 366140,

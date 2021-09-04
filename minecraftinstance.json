@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2021-09-04T08:46:11.5787418Z",
-  "playedCount": 6,
+  "lastPlayed": "2021-09-04T09:39:23.5831401Z",
+  "playedCount": 9,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -72,6 +72,71 @@
   "preferenceShowAddOnInfo": true,
   "installDate": "2021-09-03T18:11:33.1716619Z",
   "installedAddons": [
+    {
+      "addonID": 492376,
+      "gameInstanceID": "ab2d72cc-12d8-412a-af72-2b07b8b62a05",
+      "installedFile": {
+        "id": 3436979,
+        "displayName": "orcinusscaves-1.3.jar",
+        "fileName": "orcinusscaves-1.3.jar",
+        "fileDate": "2021-08-23T21:51:55.15Z",
+        "fileLength": 102157,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3436/979/orcinusscaves-1.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2028206457,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 1096173898,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2657433108,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3175028951,
+        "gameVersion": [
+          "1.16.5"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "orcinusscaves-1.3.jar"
+      },
+      "dateInstalled": "2021-09-04T09:35:27.5810349Z",
+      "dateUpdated": "2021-09-04T09:35:27.5880154Z",
+      "dateLastUpdateAttempted": "2021-09-04T09:35:27.5880154Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
     {
       "addonID": 495693,
       "gameInstanceID": "ab2d72cc-12d8-412a-af72-2b07b8b62a05",
@@ -152,6 +217,113 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 285612,
+      "gameInstanceID": "ab2d72cc-12d8-412a-af72-2b07b8b62a05",
+      "installedFile": {
+        "id": 3211323,
+        "displayName": "RandomPatches 2.4.4-forge",
+        "fileName": "randompatches-2.4.4-forge.jar",
+        "fileDate": "2021-02-21T04:28:36.047Z",
+        "fileLength": 423940,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3211/323/randompatches-2.4.4-forge.jar",
+        "isAlternate": false,
+        "alternateFileId": 3211324,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 348521,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1638063143,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 116556605,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1824450009,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3056701416,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 449600121,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2570708431,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "randompatches.mixins.json",
+            "fingerprint": 1069549616,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "randompatches.refmap.json",
+            "fingerprint": 3621200479,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2375576311,
+        "gameVersion": [
+          "1.16.3",
+          "1.16.1",
+          "1.16.5",
+          "Forge",
+          "1.16.4",
+          "1.16.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "randompatches-2.4.4-forge.jar"
+      },
+      "dateInstalled": "2021-09-04T09:38:49.3931304Z",
+      "dateUpdated": "2021-09-04T09:38:49.4021067Z",
+      "dateLastUpdateAttempted": "2021-09-04T09:38:49.4021067Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 456640,
@@ -310,6 +482,121 @@
       "installedTargets": []
     },
     {
+      "addonID": 417430,
+      "gameInstanceID": "ab2d72cc-12d8-412a-af72-2b07b8b62a05",
+      "installedFile": {
+        "id": 3441420,
+        "displayName": "CavesAndCliffsBackport-1.16.5-6.3.jar",
+        "fileName": "CavesAndCliffsBackport-1.16.5-6.3.jar",
+        "fileDate": "2021-08-28T02:00:23.933Z",
+        "fileLength": 12798561,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3441/420/CavesAndCliffsBackport-1.16.5-6.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 441706,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1679268288,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 461025467,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1004086905,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "cavesandcliffs.glowsquid.mixins.json",
+            "fingerprint": 4230925199,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "cavesandcliffs.height.mixins.json",
+            "fingerprint": 2997939179,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "cavesandcliffs.mixins.json",
+            "fingerprint": 1367622154,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 4067176266,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 2763353047,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3034573350,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "cavesandcliffs.refmap.json",
+            "fingerprint": 1698745197,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1142857181,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "CavesAndCliffsBackport-1.16.5-6.3.jar"
+      },
+      "dateInstalled": "2021-09-04T09:25:54.3863786Z",
+      "dateUpdated": "2021-09-04T09:25:54.4263707Z",
+      "dateLastUpdateAttempted": "2021-09-04T09:25:54.4263707Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 470193,
       "gameInstanceID": "ab2d72cc-12d8-412a-af72-2b07b8b62a05",
       "installedFile": {
@@ -391,6 +678,96 @@
       "installedTargets": null
     },
     {
+      "addonID": 441706,
+      "gameInstanceID": "ab2d72cc-12d8-412a-af72-2b07b8b62a05",
+      "installedFile": {
+        "id": 3441327,
+        "displayName": "cavebiomeapi-1.16.5-1.3.7.jar",
+        "fileName": "cavebiomeapi-1.16.5-1.3.7.jar",
+        "fileDate": "2021-08-27T23:31:22.63Z",
+        "fileLength": 150833,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3441/327/cavebiomeapi-1.16.5-1.3.7.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1344956633,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 4144779036,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3595159202,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "cavebiomeapi.mixins.json",
+            "fingerprint": 595001104,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "cavebiomes.png",
+            "fingerprint": 974619954,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 665431607,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "cavebiomeapi.refmap.json",
+            "fingerprint": 2189428528,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2711684211,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "cavebiomeapi-1.16.5-1.3.7.jar"
+      },
+      "dateInstalled": "2021-09-04T09:25:53.1358Z",
+      "dateUpdated": "2021-09-04T09:25:53.1436773Z",
+      "dateLastUpdateAttempted": "2021-09-04T09:25:53.1436773Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 238222,
       "gameInstanceID": "ab2d72cc-12d8-412a-af72-2b07b8b62a05",
       "installedFile": {
@@ -451,6 +828,103 @@
       "dateInstalled": "2021-09-04T08:08:14.136438Z",
       "dateUpdated": "2021-09-04T08:08:14.1504025Z",
       "dateLastUpdateAttempted": "2021-09-04T08:08:14.1504025Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 460681,
+      "gameInstanceID": "ab2d72cc-12d8-412a-af72-2b07b8b62a05",
+      "installedFile": {
+        "id": 3437287,
+        "displayName": "darkerdepths-1.16.5-1.1.1.jar",
+        "fileName": "darkerdepths-1.16.5-1.1.1.jar",
+        "fileDate": "2021-08-24T04:40:57.337Z",
+        "fileLength": 859251,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3437/287/darkerdepths-1.16.5-1.1.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 441706,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 695366265,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2146742144,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2373092712,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "darkerdepths.mixins.json",
+            "fingerprint": 429266235,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 163827740,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2624456847,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "darkerdepths.refmap.json",
+            "fingerprint": 4105556149,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1290571786,
+        "gameVersion": [
+          "1.16.5",
+          "Forge"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "darkerdepths-1.16.5-1.1.1.jar"
+      },
+      "dateInstalled": "2021-09-04T09:26:40.9214818Z",
+      "dateUpdated": "2021-09-04T09:26:40.9294619Z",
+      "dateLastUpdateAttempted": "2021-09-04T09:26:40.9294619Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,

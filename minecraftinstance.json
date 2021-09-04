@@ -30,8 +30,8 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "0001-01-01T00:00:00",
-  "playedCount": 0,
+  "lastPlayed": "2021-09-03T18:51:59.5805776Z",
+  "playedCount": 2,
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -71,7 +71,397 @@
   },
   "preferenceShowAddOnInfo": true,
   "installDate": "2021-09-03T18:11:33.1716619Z",
-  "installedAddons": [],
+  "installedAddons": [
+    {
+      "addonID": 495693,
+      "gameInstanceID": "ab2d72cc-12d8-412a-af72-2b07b8b62a05",
+      "installedFile": {
+        "id": 3431650,
+        "displayName": "farsight-1.6.jar",
+        "fileName": "farsight-1.6.jar",
+        "fileDate": "2021-08-19T18:38:49.853Z",
+        "fileLength": 10183,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3431/650/farsight-1.6.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1629992638,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2848873603,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "farsight.mixins.json",
+            "fingerprint": 1747263060,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1438559181,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "farsight.refmap.json",
+            "fingerprint": 454485010,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 844992217,
+        "gameVersion": [
+          "1.16.3",
+          "1.16.5",
+          "Forge",
+          "1.16.4",
+          "1.16.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "farsight-1.6.jar"
+      },
+      "dateInstalled": "2021-09-03T18:51:28.6836595Z",
+      "dateUpdated": "2021-09-03T18:51:28.7425006Z",
+      "dateLastUpdateAttempted": "2021-09-03T18:51:28.7425006Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 456640,
+      "gameInstanceID": "ab2d72cc-12d8-412a-af72-2b07b8b62a05",
+      "installedFile": {
+        "id": 3269314,
+        "displayName": "limitedchunks-1.10.jar",
+        "fileName": "limitedchunks-1.10.jar",
+        "fileDate": "2021-04-08T14:06:07.9Z",
+        "fileLength": 18279,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3269/314/limitedchunks-1.10.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3841467923,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 571191598,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3600105266,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2492420753,
+        "gameVersion": [
+          "1.16.3",
+          "1.14.4",
+          "1.16.5",
+          "Forge",
+          "1.15.2",
+          "1.16.4",
+          "1.16.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "limitedchunks-1.10.jar"
+      },
+      "dateInstalled": "2021-09-03T18:55:52.8128757Z",
+      "dateUpdated": "2021-09-03T18:55:52.8747045Z",
+      "dateLastUpdateAttempted": "2021-09-03T18:55:52.8747045Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 470193,
+      "gameInstanceID": "ab2d72cc-12d8-412a-af72-2b07b8b62a05",
+      "installedFile": {
+        "id": 3434629,
+        "displayName": "connectivity-2.3-1.16.5.jar",
+        "fileName": "connectivity-2.3-1.16.5.jar",
+        "fileDate": "2021-08-22T16:28:01.37Z",
+        "fileLength": 52995,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3434/629/connectivity-2.3-1.16.5.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2523172629,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3844341493,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "connectivity.mixins.json",
+            "fingerprint": 2519663344,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2098059805,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "connectivity.refmap.json",
+            "fingerprint": 2808845358,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2769176009,
+        "gameVersion": [
+          "1.16.3",
+          "1.16.5",
+          "Forge",
+          "1.16.4",
+          "1.16.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "connectivity-2.3-1.16.5.jar"
+      },
+      "dateInstalled": "2021-09-03T18:51:48.1987007Z",
+      "dateUpdated": "2021-09-03T18:51:48.2076874Z",
+      "dateLastUpdateAttempted": "2021-09-03T18:51:48.2076874Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 366140,
+      "gameInstanceID": "ab2d72cc-12d8-412a-af72-2b07b8b62a05",
+      "installedFile": {
+        "id": 3358883,
+        "displayName": "dynviewdist-2.0.jar",
+        "fileName": "dynviewdist-2.0.jar",
+        "fileDate": "2021-06-20T19:15:13.64Z",
+        "fileLength": 13472,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3358/883/dynviewdist-2.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 456640,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 298316196,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2562954710,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3903986230,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2102439104,
+        "gameVersion": [
+          "1.16.3",
+          "1.16.5",
+          "Forge",
+          "1.16.4",
+          "1.16.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "dynviewdist-2.0.jar"
+      },
+      "dateInstalled": "2021-09-03T18:51:34.5612388Z",
+      "dateUpdated": "2021-09-03T18:51:34.6230729Z",
+      "dateLastUpdateAttempted": "2021-09-03T18:51:34.6230729Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 354143,
+      "gameInstanceID": "ab2d72cc-12d8-412a-af72-2b07b8b62a05",
+      "installedFile": {
+        "id": 3401152,
+        "displayName": "performant-1.16.2-5-3.72m.jar",
+        "fileName": "performant-1.16.2-5-3.72m.jar",
+        "fileDate": "2021-07-25T23:20:18.343Z",
+        "fileLength": 232527,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3401/152/performant-1.16.2-5-3.72m.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2162424888,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 959936665,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 166358247,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "performant.mixins.json",
+            "fingerprint": 2651594619,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "performant.refmap.json",
+            "fingerprint": 1760196342,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1486571541,
+        "gameVersion": [
+          "1.16.3",
+          "1.16.5",
+          "Forge",
+          "1.16.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2019-08-01T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "performant-1.16.2-5-3.72m.jar"
+      },
+      "dateInstalled": "2021-09-03T18:51:41.2666737Z",
+      "dateUpdated": "2021-09-03T18:51:41.2766475Z",
+      "dateLastUpdateAttempted": "2021-09-03T18:51:41.2766475Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    }
+  ],
   "isMigrated": false,
   "preferenceUploadProfile": false,
   "wasNameManuallyChanged": false

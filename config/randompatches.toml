@@ -281,7 +281,7 @@
 	# This option is both client and server-sided.
 	# Changes to this option are applied after a game restart.
 	# Default: []
-	mixin_blacklist = ["ServerPlayNetHandlerKeepAlive","getKeepAlivePacketInterval"]
+	mixin_blacklist = ["ServerPlayNetHandlerKeepAlive", "getKeepAlivePacketInterval"]
 
 	# Miscellaneous bug fixes.
 	[misc.bug_fixes]

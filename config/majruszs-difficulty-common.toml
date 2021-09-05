@@ -274,7 +274,7 @@
 		chance = 1.0
 		#Extra damage and health multiplier at night.
 		#Range: 1.0 ~ 10.0
-		night_multiplier = 2.0
+		night_multiplier = 1.5
 
 		#Extra health multiplier.
 		[Features.SpawnBonuses.HealthMultiplier]
@@ -295,10 +295,10 @@
 			normal = 0.0
 			#Expert Mode
 			#Range: 0.0 ~ 10.0
-			expert = 0.2
+			expert = 0.25
 			#Master Mode
 			#Range: 0.0 ~ 10.0
-			master = 0.4
+			master = 0.5
 
 	#Wither Skeleton spawns with Wither Sword.
 	[Features.WitherSkeletonSword]

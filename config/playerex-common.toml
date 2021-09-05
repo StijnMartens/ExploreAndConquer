@@ -24,7 +24,7 @@
 	#Added on Constitution
 	addKnockbackRes = true
 	#Added on Strength
-	addHealthRegen = false
+	addHealthRegen = true
 	#Added on Strength
 	addMeleeDamage = true
 	#Added on Strength

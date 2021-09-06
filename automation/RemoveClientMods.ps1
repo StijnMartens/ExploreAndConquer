@@ -2,11 +2,16 @@
 # In the format @("filename", "filename")
 $CLIENT_MODS_TO_REMOVE_FROM_SERVER_FILES = @(
     "AmbientSounds",
-    "DynamicSurrounings",
+    "betterbiomeblend",
+    "DynamicSurroundings",
+    "EntityCulling",
 	"farsight",
     "HealthOverlay",
     "InventoryHud",
     "Neat",
+    "overloadedarmorbar",
+    "sounddeviceoptions",
+    "SoundFilters",
     "toughnessbar"
 )
 
